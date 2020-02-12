@@ -2,6 +2,13 @@
 title: "Mile High Hope Dealers - HA of Colorado"
 description: Heroin Anonymous of Colorado Area Site
 
+# Collections
+collections:
+  about_pages:
+    output: true
+  literature_pages:
+    output: true
+
 # Files
 baseurl:
 pagesdir: pages
