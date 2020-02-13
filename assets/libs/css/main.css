@@ -419,7 +419,7 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
-.page-content .list-group-item {
+.page-content {
   font-size: 2rem;
 }
 .page-content ol li {
