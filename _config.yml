@@ -23,7 +23,7 @@ search: true
 share: true
 comments: true
 
-# Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
+# Read Time is a calculator to provide post read-time based on word count. Usage is recommended.
 readtime: true
 
 # Specify the average Words per minute. If not defined, 180 will be used
@@ -37,9 +37,7 @@ owner:
   description:    Mile High Hope Dealers is the website for the Colorado Area of Heroin Anonymous
 
 # Social networking links used in footer. Update and remove as you like.
-twitter_username: StarPerfect
 github_username: StarPerfect
-instagram_username: ST4RP3RF3CT
 
  
 # Internal nav
