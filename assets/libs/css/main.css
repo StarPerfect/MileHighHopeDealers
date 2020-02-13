@@ -419,3 +419,9 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+.page-content {
+  font-size: 2rem;
+}
+.page-content ol li {
+  font-size: 2rem;
+}

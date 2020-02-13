@@ -1,0 +1,33 @@
+<div class="intro">
+    <div class="row">
+
+        <div class="col-md-left-cntct">
+
+            <h2>Welcome to the Mile High Hope Dealers!</h2>
+
+            <ul class="list-group">
+             {% for page in site.about_pages %}
+             {% if page.title and page.name != "index.html" %}
+             <li class="list-group-item">
+                 <a href="{{ page.url | prepend: site.baseurl }}">
+                     {% if page.nav_title %}
+                        {{ page.nav_title }}
+                    {% elsif page.small_header %}
+                        {{ page.small_header }}
+                     {% else %}
+                        {{ page.title }}
+                     {% endif %}
+                 </a>
+             </li>
+             {% endif %}
+             {% endfor %}
+             </ul>
+        </div>
+
+
+        <div class="col-md-right-cntct">
+            {% include links.html %}
+        </div>
+
+    </div>
+</div>
