@@ -8,7 +8,6 @@ header-img: "assets/owner/hero/about-bg.jpg"
 permalink: /about/test
 ---
 
-
 1. Do you isolate when using heroin?
 2. Have you ever used more heroin than you planned?
 3. Has your heroin usage interfered with your job or school?
@@ -32,15 +31,16 @@ permalink: /about/test
 21. Do you find yourself doing things that you are ashamed of in order to purchase heroin?
 22. Have you ever stolen drugs or money from family or friends in order to buy heroin?
 
-If you answered yes to one or more of these questions,
-you may have a problem with heroin.
+If you answered yes to one or more of these questions, you may have a problem with heroin.
 
 You are the only person who can decide if you are a heroin addict. No one else can make that decision.
 
-All of us in Heroin Anonymous at some point had to face the fact that we were no longer controlling our heroin usage and
-that it was destroying our lives. We had to admit that we were heroin addicts and that we needed help.
+All of us in Heroin Anonymous at some point had to face the fact that we were no longer controlling our heroin usage and that it was destroying our lives. We had to admit that we were heroin addicts and that we needed help.
 
 There is a solution.
 
 Consider going to some Heroin Anonymous Meetings. There are others who understand what you are experiencing.
-Hope is available. Other sober heroin addicts are here to help. You do not have to live like this anymore.
+
+Hope is available.
+
+Other sober heroin addicts are here to help. You do not have to live like this anymore.
