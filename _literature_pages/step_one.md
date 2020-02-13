@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Heroin Anonymous - Step One
+title: Heroin Anonymous | Step One
 description:  Official HAWS literature on Step One of the Heroin Anonymous program
 big_header: Literature
 small_header: Step One
 header-img: "assets/owner/hero/about-bg.jpg"
 permalink: /literature/step-one
 ---
-
-# STEP ONE
 
 “We admitted we were powerless over heroin – that our lives had become unmanageable.”
 
@@ -24,9 +22,11 @@ Sometimes our loved ones pleaded for us to stop using. We wanted to be a good pa
 Some of us were on probation or parole. We were threatened with jail if we used again. Sometimes employers threatened to fire us if we screwed up one more time. We believed these circumstances would enable us to stay sober. However, no matter how many consequences we were facing, no matter how much we risked losing, we ended up using one more time.
 
 When faced with mental obsession for using, we tried various methods to get rid of these thoughts in our minds. We tried to stay busy, we tried using other substances to distract us, we tried to tell ourselves we would not use, we tried to rely on our will power, or we tried to convince ourselves that if we changed our thinking we would stay sober. In the end we used one more time, feeling frustrated, disappointed, telling ourselves it would be different next time.
+
 The ultimate truth became apparent. We were unable to manage our lives. If we were successful in managing our lives, we would be currently doing so. It was a crushing blow to discover that no matter how hard we tried; we completely failed at managing our lives.
 
 When we finally realized there was absolutely nothing we could do to keep ourselves sober, we surrendered. It became obvious that our ideas, our way of doing things, our way of coping, our methods, did not work. For the first time in our lives we acknowledged that we lacked power, we did not have the power or the means to stop using. And finally, we admitted complete defeat.
+
 We began to consider another way of living. We began to entertain the reality that until we surrendered, until we were willing to give up our old ideas, we could not produce the desire to seek some kind of power that would enable us to stay sober.
 
 It became apparent that the more hopeless we felt, the more receptive we became to seek some power from something outside of human power. We discovered this to be the very nature of surrender. We became conscious of the fact that we are guaranteed to use again as long as we relied on our own ideas and on our own will power. We realized that we did not possess the power to stay sober.
