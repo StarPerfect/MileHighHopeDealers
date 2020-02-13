@@ -2,13 +2,12 @@
 layout: page
 nav_title: About
 title: The History of Heroin Anonymous
-description: The History of Heroin Anonymous
+description: Official account of how Heroin Anonyous was first founded in 2004.
+big_header: About
+small_header: The History of Heroin Anonymous
 header-img: assets/owner/hero/about-bg.jpg
-permalink: /about/
+permalink: /about
 ---
-
-# About
-## The History of Heroin Anonymous
 
 Paul F., a sober heroin addict, in AA, received a phone call on July 26, 2004 from Mike S., a fellow heroin addict. Mike
 asked Paul, “How come there is no Heroin Anonymous?” At that moment it was decided to start HA so we heroin addicts
