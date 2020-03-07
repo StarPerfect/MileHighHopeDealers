@@ -1,5 +1,5 @@
 {
-  "name": "HA of Colorado",
+  "name": "HAofColorado",
   "version": "1.0.0",
   "description": "Mile High Hope Dealers",
   "main": "Gruntfile.js",
@@ -8,7 +8,6 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node Grunt.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
