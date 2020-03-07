@@ -89,8 +89,8 @@ google_verify:
 bing_verify:         
 
 
-# # Jekyll Plugins
-# plugins:
-#   - jekyll-seo-tag
-#   - jekyll-sitemap
+# Jekyll Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
   
