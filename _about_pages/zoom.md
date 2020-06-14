@@ -36,10 +36,7 @@ NarCanDo - Saturdays @ 7pm MST<br>
 ID# 529 493 1286<br>
 Code: 12steps<br>
 <p>
-Additional Virtual Meeting Resources
-<p>
-Boulder Alano Club - Multiple meetings daily<br>
-<a href="https://boulderalanoclub.org/information-about-online-meetings/">https://boulderalanoclub.org/information-about-online-meetings/</a>
+<b>Additional Virtual HA Meeting Resources</b>
 <p>
 <a href="http://heroinanonymous.org/wp-content/uploads/2020/06/Temporary_Online_6-11-2020.pdf">Heroin Anonymous World Services PDF with National COVID Meetings<a>
 
