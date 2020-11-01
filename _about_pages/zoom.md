@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zoom Meetings
-description:  Twenty questions to self-assess heroin addiction.
+description:  Find virtual HA meetings.
 big_header: Virtual Meetings
 small_header: Zoom Meetings
 header-img: "assets/owner/hero/about-bg.jpg"
