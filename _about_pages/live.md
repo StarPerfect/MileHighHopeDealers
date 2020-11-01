@@ -1,0 +1,17 @@
+---
+layout: page
+title: Live Meetings
+description:  Find live, in-person HA meetings.
+big_header: Meetings
+small_header: Live Meetings
+header-img: "assets/owner/hero/about-bg.jpg"
+permalink: /about/meetings
+---
+<center>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FDenver&amp;src=bWlsZWhpZ2hob3BlZGVhbGVyc0BnbWFpbC5jb20&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043&amp;showCalendars=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<p style="font-size:15px">
+In observance of our 7th tradition which states “Every H.A. group ought to be fully self-supporting, declining outside contributions”, we ask that non heroin addicts DO NOT donate. We thank you for respecting this request.
+<p style="font-size:18px">
+If you are a heroin addict, you can donate via our Area venmo account: @ColoradoHA 
+<p style="font-size:15px">
+As stated in our 6th tradition, we are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
