@@ -16,6 +16,10 @@ HA big book study - Sundays @ 12pm MST<br>
 ID# 873 436 1690 <br>
 Code: 300186<br>
 <p>
+Foiled Again - Tuesdays @ 8:15pm MST <br>
+ID# 914 2047 6647 <br>
+Code: 797940<br>
+<p>
 "Eye of the Storm" - Fridays @ 9pm MST <br>
 ID# 691 286 933 <br>
 Code: 448825<br>
@@ -23,6 +27,10 @@ Code: 448825<br>
 California HA meeting - Thursdays @ 8pm MST<br>
 ID# 873 436 1690<br>
 Code: 300186<br>
+<p>
+Last Shot Lakewood - Thursdays @ 8:15pm MST <br>
+ID# 767 154 7954<br>
+Code: Lastshot07<br>
 <p>
 WOMENS ONLY MEETING - Mondays & Fridays @ 4pm MST<br>
 ID# 935 664 325<br>
