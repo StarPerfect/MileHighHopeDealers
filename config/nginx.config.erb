@@ -17,13 +17,9 @@ http {
 
   server_tokens off;
 
-
   access_log logs/access.log;
 
-
-
   error_log stderr error;
-
 
   include mime.types;
   default_type application/octet-stream;
@@ -39,10 +35,6 @@ http {
     keepalive_timeout 5;
     root _site/;
 
-
-
-
-
     mruby_post_read_handler /app/bin/config/lib/ngx_mruby/headers.rb cache;
 
     location / {
@@ -52,21 +44,13 @@ http {
 
     }
 
-
     location ~ \.html$ {
       try_files $uri =404;
     }
 
-
-
     if ($http_x_forwarded_proto != "https") {
       return 301 https://$host$request_uri;
     }
-
-
-
-
-
 
   # need this b/c setting $fallback to =404 will try #{root}=404 instead of returning a 404
   location @404 {
@@ -75,9 +59,7 @@ http {
 
   # fallback proxy named match
 
-
   # fallback redirects named match
-
 
   }
 }
