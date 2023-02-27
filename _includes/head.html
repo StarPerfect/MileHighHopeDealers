@@ -13,17 +13,17 @@
         {% endif %}
     </title>
 
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
 
     
     <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="{{ site.url }}/assets/libs/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/libs/css/bootstrap.min.css">
     
     <!-- Pygments Github CSS -->
-    <link rel="stylesheet" href="{{ site.url }}/assets/libs/css/syntax.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/libs/css/syntax.css">
     
     <!-- Custom CSS -->
-    <link rel="stylesheet" href=" {{ site.url }}/assets/libs/css/main.css">
+    <link rel="stylesheet" href=" {{ site.baseurl }}/assets/libs/css/main.css">
     
     <!-- Custom Fonts -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
